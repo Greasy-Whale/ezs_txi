@@ -1,0 +1,146 @@
+Version 2.2.29(02/19/2026)
+[BASE] Settings page now enhanced for better UX
+[BASE] TXi now can stream to EZSims Flight Instructor Station. 
+
+Version 2.2.28.9(02/18/2026)
+[P3D] Metar data collected from P3D and used in WX features
+[BASE] Change on how files are managed on the backend. 
+
+Version 2.2.28.6(02/12/2026)
+[BASE] fixed 3P integartion issues  
+
+Version 2.2.28.5(02/10/2026)
+[BASE] Fixed Touch mode being visible at wrong time for certian 3P integrators. 
+
+Version 2.2.28.4(02/10/2026)
+[BASE] Fixed issues with update not downloading properly.
+
+Version 2.2.28.3(02/09/2026)
+[P3D]Ability to set VOR/NAV course via numeric entry
+[P3D] User can now numerically enter FLC/IAS
+[BASE] User can now push to sync IAS/FLC
+[BASE] STD Baro preset button added for set to preset value(value before entering STD baro mode)
+[BASE] PFD knob VS Mode push sync now working.
+[BASE] Baro Label blinks when above 18000 to indicate above STD setting should be applied
+
+
+
+Version 2.2.28(02/06/2026)
+[BASE] Added initial Garmin splashscreen on load
+[BASE] VS button now loads with data on init
+[BASE] Numeric Entry number validation
+[XP] XP12 METAR data now collected after sucessful connection to XP and only when Aircraft Postion is fully initalized.
+[P3D] Both positve and negative values can be entered for the vertical speed
+
+Version 2.2.27(02/05/2026)
+[BASE] Fixed reversed knobs for 3P integrator. 
+
+Version 2.2.26(02/05/2026)
+[BASE] Fixed touchmode showing at incorrect time. 
+
+Version 2.2.25(02/05/2026)
+[BASE] Touchmode enabled when no hardware provider enabled
+[BASE] Fixed issue where user was unable to search for a new airport/chart after the first chart search.
+[BASE] Improved hardware commands for 3P integrators.
+[MSFS] FLC now clicks on knot per click of encoder.
+[P3D] FLC now clicks on knot per click of encoder.
+
+Version 2.2.24(02/04/2026)
+[BASE] Added push to STD for PFD knob when in baro mode. 
+[BASE] Added autoconnection to MSFS, XP, P3D so app does not need be opened after the base sim type. 
+
+Version 2.2.23(01/29/2026)
+[BASE] Added Splash Screen window when loading.
+[BASE] Improved click region on numerical entry buttons. 
+[BASE]Fixed issue when tapping VS button on PFD side was not opening the VS entry menu.
+[BASE]Fixed issue when VS mode was entered via knob that the VS entry menu would not show.
+[BASE]When in baro mode when making a numerical entry, the decimal place is auto added.
+[BASE]Backspace button clears entire entry content box when making a numerical entry.
+[BASE]AHARS Alligment UI render order changed.
+[P3D]Encoder now allows for Autopilot preselction altitude manipulation. 
+[P3D]User can now numerically enter Autopilot preselction altitude
+[P3D] Kholsman/baro now setting to proper value. 
+
+Version 2.2.22(01/24/2026)
+[BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now timeout. 
+[BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now clear out after clicking off selected menu.
+[BASE] Initial support for multi CDI source (WIP)
+[XP] VSI bug/btn now tracking AP selected VS
+[P3D] VSI bug/btn now tracking AP selected VS
+[MSFS] VSI bug/btn now tracking AP selected VS
+[BASE] Improved logging for various hardware types. 
+[BASE] Entry boxes clear content when entering new data. 
+
+Version 2.2.21 (1/19/25)
+-Allow for integrators to skip NDB entirely. 
+
+Version 2.2.20
+-Changed for partners to provide update endpoint URLs
+-no longer creating backup of the Navdata folder. 
+
+Version 2.2.19
+-Fixed Altimiter readout to be accurate (was off by about 20 or so feet)
+
+Version 2.2.15(12/28/2025)
+-Fixed startup logic for all EZSims apps to better handle edge cases. 
+
+Versiom 2.2.14(12/12/2025)
+-Fixed CTD when entering map page to soon after TXi loads. 
+
+Version 2.2.13 (12/12/2025)
+-Fixd CTD when entering charts page when no navdata object are found near the aircraft
+-Fixd CTD when entering Airport, Navaid, Intersection when no navdata objects are found near the aircraft
+-Fixed knob functionality 
+
+
+
+Version 2.1.1 
+-Added check for program data folder. 
+-Speedtape can be configured for several aircraft profiles. 
+-MSFS and P3D now click .01 when in baro mode. 
+-MSFS and P3D now click 1 knot when in IAS mode.
+-North up logic added.
+-Single finger zoom logic improved for HSI map.
+-HSI Map layers added. 
+
+Version 2.1.0
+-Added Offline capability. If offline, Synthetic Vision and real world weather data will be unavailable. Software/PC needs to be connected to the internet for intial load. 
+-Ground track vector map symbol added
+-Map Menu>Aviation menu items working ass indedned
+-Map layers dynamically change visibility with map zoom level
+-Added Alt Capture Arc
+-Fixed Issue with some buttons that did not work on first click
+-Added Minimumms for MSFS/XPLANE
+-App returns focus to P3D, MSFS, XPLANE after touch interaction. 
+-Heading sync working P3D
+-When entering Vertical Airspeed the "00" button is now working as intended. 
+-Push to sync encoder when in HDG mode working. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
