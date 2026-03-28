@@ -1,3 +1,11 @@
+Version 2.4.2(03/27/2026)
+[P3D] Fixed connection issue with P3D 
+[BASE] Added Terrain Page
+[TDS] Improved TDS FPL reading
+[BASE] Fixed issue with course needle not indicating correctly when in VOR/NAV mode
+[BASE] Added LOW and HIGH airways
+
+
 Version 2.3.5(03/07/2026)
 [BASE] Added invisable shutdown button on top left of screen. 
 
