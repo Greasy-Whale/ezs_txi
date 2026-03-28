@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.4.2</version>
-  <url>https://www.mediafire.com/file/p93hq3oilnq7en7/EZS_TXi_2.4.2.zip/file</url>
+  <version>2.4.3</version>
+  <url>https://www.mediafire.com/file/ste80yfok5zj1qy/EZS_TXi_2.4.3.zip/file</url>
   <mandatory mode="2">true</mandatory>
   <changelog>https://raw.githubusercontent.com/Greasy-Whale/ezs_txi/refs/heads/main/txi_changelog</changelog>
 </item>
