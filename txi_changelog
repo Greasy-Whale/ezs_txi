@@ -1,3 +1,18 @@
+Version 2.4.4 (03/30/2026)
+[BASE] Menus no longer timeout when user is actively manipulating values.
+[XPLANE] Improved connection to the host logic on app startup.
+[BASE] Baro entry now shows in proper format when on a inteagar value.  (##.##)
+[BASE] Terrain logic improved
+[BASE] Better page scrolling logic via knob. 
+[BASE] Fixed CTD when going to a page. 
+
+Version 2.4.3(03/28/2026)
+[BASE] Knobs more responsive. 
+[XPL] Dataref used for VNE changed. 
+[BASE] Power button now is contained to the MFD side of the TXi.
+[BASE] Pressing the power button when the unit is turned off will turn it back on. 
+
+
 Version 2.4.2(03/27/2026)
 [P3D] Fixed connection issue with P3D 
 [BASE] Added Terrain Page
