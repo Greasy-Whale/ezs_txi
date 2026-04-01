@@ -1,3 +1,8 @@
+Version 2.4.5(04/01/2026)
+[XP] Improved connection timing to EZSimsHost
+[BASE] Improved shutdown sequence, should close faster when using top left close button
+[BASE] Improved hardware knob response for some hardware types. 
+
 Version 2.4.4 (03/30/2026)
 [BASE] Menus no longer timeout when user is actively manipulating values.
 [XPLANE] Improved connection to the host logic on app startup.
