@@ -1,3 +1,8 @@
+Version 2.4.7(04/02/2026)
+[XP] Improved connection logic to EZSimsHost app
+[BASE] Fixed issue where Terrain Page sometimes wouldn't load fully
+[BASE] Improved SVT view that presents better at higher altitudes. 
+
 Version 2.4.5(04/01/2026)
 [XP] Improved connection timing to EZSimsHost
 [BASE] Improved shutdown sequence, should close faster when using top left close button
