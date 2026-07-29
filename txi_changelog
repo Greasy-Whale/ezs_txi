@@ -1,3 +1,11 @@
+Version 2.5.3(07/29/2026)
+[BASE] Turn anticpation arc now drawing on map pages
+[BASE] Updated Graphics for Obstacles
+[TDS] Improved route drawing for approach phase of flight
+[TDS] Improved flight plan page for TDS approach sequence
+[XPLANE] Added initial connection for new Xplane WXR(WIP)
+[BASE] Fixed error when aircraft map would zoom to ocean resulting in CTD
+
 Version 2.5.2(05/11/2026)
 [BASE-EZSIMS] allowed for connection of EZSims GPS. 
 [BASE] Updated the EZSimsUpdater to latest version. 
