@@ -1,3 +1,7 @@
+Version 2.5.8(08/28/2026)
+[Fixed] dead space area on GDU700P when bezel is not visible
+[BASE] GDU700P footer now connected to active pages on device. 
+
 Version 2.5.7(08/25/2026)
 [BASE] Updated shutdown logic with EZSims Host App
 
