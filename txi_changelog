@@ -1,4 +1,9 @@
-Version 2.6.1 (10/15/2026)
+Version 2.6.2(10/05/2026)
+[FIXED] Screen placement should not need readjustment when updating
+[FIXED] Better Terrain texturing
+[Added] Added C182T speed markings
+
+Version 2.6.1 (10/05/2026)
 [ADDED] RW markings on map page and SVT. 
 
 Version 2.5.8(08/28/2026)
