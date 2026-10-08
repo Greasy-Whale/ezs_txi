@@ -1,3 +1,11 @@
+Version 2.6.4(10/08/2026)
+[Added] SVT Gridlines
+[FIXED] Map layers now declutter with map scale on Main Map and HSI Map
+[FIXED] HSI Map now properly zooms
+[TDS FIXED] Approach points in the flight plan page now has data in the data columns
+[FIXED] VVI/FPM Marker now better reflects uses proper datarefs
+[FIXED] HSI Map and Map Page runway symbols now are scaled a bit larger. 
+
 Version 2.6.2(10/05/2026)
 [FIXED] Screen placement should not need readjustment when updating
 [FIXED] Better Terrain texturing
