@@ -1,3 +1,7 @@
+Version 2.6.5(10/09/2026)
+[FIXED] SVT Gridlines appearing to dense/staturating terrain at long distance when at a low altitude
+[ADDED] Offline SVT render
+
 Version 2.6.4(10/08/2026)
 [Added] SVT Gridlines
 [FIXED] Map layers now declutter with map scale on Main Map and HSI Map
