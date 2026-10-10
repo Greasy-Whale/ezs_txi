@@ -1,3 +1,11 @@
+Version 2.6.6(10/09/2026)
+[ADDED] Hidden Miniumus button on alttiude strip
+[FIXED] Flight Plan Page loads the FPL sequence on first load without needing to change the GPS waypoints
+[FIXED] CTD when toggling topo mode on the main map. 
+[FIXED] Better back buton functionality
+[FIXED] default zoom level for HSI Map
+
+
 Version 2.6.5(10/09/2026)
 [FIXED] SVT Gridlines appearing to dense/staturating terrain at long distance when at a low altitude
 [ADDED] Offline SVT render
