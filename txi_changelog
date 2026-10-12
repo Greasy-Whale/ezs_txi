@@ -1,3 +1,13 @@
+Version 2.6.6(10/12/2026)
+[FIXED] Added clear entry fields for the speed tape markings
+[ADDED] Added B58 default config for airspeed. 
+[XP-FIXED] When autopilot is in a NAV mode and a GPS is driving the HSI the indictation is "GPS"
+[FIXED] When in a vetical mode other than PIT indication will say IAS + the selected value or VS + the selected value
+[ADDED] Prop syncro graphic for multiengine prop aircraft. 
+[FIXED] Vspeed menu from the PFDMenu now works. 
+[FIXED] FD pitch axis now properly indicates the FD pitch. 
+[FIXED] AP label on AP scoreboard now no longer turns on with FD activation. 
+ 
 Version 2.6.6(10/09/2026)
 [ADDED] Hidden Miniumus button on alttiude strip
 [FIXED] Flight Plan Page loads the FPL sequence on first load without needing to change the GPS waypoints
