@@ -1,4 +1,4 @@
-Version 2.6.6(10/12/2026)
+Version 2.6.7(10/12/2026)
 [FIXED] Added clear entry fields for the speed tape markings
 [ADDED] Added B58 default config for airspeed. 
 [XP-FIXED] When autopilot is in a NAV mode and a GPS is driving the HSI the indictation is "GPS"
