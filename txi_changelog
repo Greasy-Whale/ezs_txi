@@ -1,3 +1,9 @@
+Version 2.6.9(10/14/2026)
+[FIXED] Velocity Vector
+[ADDED] CrossTrackError Readout when CDI is at full defelction on CDI bar.
+[FIXED] Fixed UI for the turn rate indicator 
+[FIXED] Fixed UI for the slip/skid indciator
+
 Version 2.6.8(10/13/2026)
 [FIXED] VR,VX,VY bugs now working on speed tape
 [FIXED] Fixed UI on Airport page, VOR Page, Intersection Page
