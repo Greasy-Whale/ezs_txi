@@ -1,3 +1,8 @@
+Version 2.7.0(10/15/2026)
+[ADDED] Bearing Pointers/Readouts
+[FIXED] Roll Hash 
+[FIXED] Added New UI for the Alt and Speed tape drums. 
+
 Version 2.6.9(10/14/2026)
 [FIXED] Velocity Vector
 [ADDED] CrossTrackError Readout when CDI is at full defelction on CDI bar.
